@@ -1,0 +1,21 @@
+# Core
+numpy
+tqdm
+
+# Graph
+networkx
+
+# PDF processing
+pymupdf
+
+# NLP
+nltk
+sentence-transformers
+scikit-learn
+
+# Optional (recommended for later)
+torch
+transformers
+
+# For future demo/UI (optional)
+streamlit
